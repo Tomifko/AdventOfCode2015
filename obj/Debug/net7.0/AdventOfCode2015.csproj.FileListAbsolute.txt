@@ -1,0 +1,15 @@
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\bin\Debug\net7.0\AdventOfCode2015.exe
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\bin\Debug\net7.0\AdventOfCode2015.deps.json
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\bin\Debug\net7.0\AdventOfCode2015.runtimeconfig.json
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\bin\Debug\net7.0\AdventOfCode2015.dll
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\bin\Debug\net7.0\AdventOfCode2015.pdb
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\obj\Debug\net7.0\AdventOfCode2015.csproj.AssemblyReference.cache
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\obj\Debug\net7.0\AdventOfCode2015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\obj\Debug\net7.0\AdventOfCode2015.AssemblyInfoInputs.cache
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\obj\Debug\net7.0\AdventOfCode2015.AssemblyInfo.cs
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\obj\Debug\net7.0\AdventOfCode2015.csproj.CoreCompileInputs.cache
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\obj\Debug\net7.0\AdventOfCode2015.dll
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\obj\Debug\net7.0\refint\AdventOfCode2015.dll
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\obj\Debug\net7.0\AdventOfCode2015.pdb
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\obj\Debug\net7.0\AdventOfCode2015.genruntimeconfig.cache
+C:\Users\z0043bmn\Desktop\AdventOfCode2015\obj\Debug\net7.0\ref\AdventOfCode2015.dll
